@@ -1,4 +1,4 @@
-# SAS_TFLs_OcTech
+# SAS_TFLs_OC
 The project focuses on generating statistical tables based on a TFLs (Tables, Figures, and Listings) shell. The original clinical dataset comprises 3000+ observations collected from 4 visits of both control and treatment groups. The dataset records the changes in 3 antibodies between each visit and the baseline.
 
 My role in the project involves data manipulation tasks such as filtering, sorting, and merging. I utilize SAS/STAT procedures to perform calculations for obtaining frequency distributions, means, medians, 95% confidence intervals, and p-values (using bootstrapping techniques). Additionally, I excel in leveraging SAS/Macro and SAS/SQL to optimize the code for enhanced performance. Data formatting is another aspect of my work to ensure the output meets the required standards.
